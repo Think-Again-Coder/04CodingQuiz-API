@@ -1,0 +1,61 @@
+*  {
+ /* border: solid 3px blue; */
+ border-radius: 15px;
+ margin: 6px;
+ padding: 6px;
+ background: linear-gradient(silver, grey);
+}
+
+/*The buttons below will be stylized to match the padding and border radius of the others*/
+.a {
+
+}
+
+.b {
+    
+}
+
+.container {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    border: 6px ridge silver;
+    border-style: ridge, double 3em;
+    width: 800px;
+    height: 600px;
+    background-color: ghostwhite;
+}
+
+.container h1 {
+    border: ridge 6px;
+}
+
+.box {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 600px;
+    height: 600px;
+    background: linear-gradient(darkslategray, gray);
+}
+
+.questions {
+    /* display: block; */
+    display: flex;
+    border: solid 3px rgb(14, 240, 14);
+    font-size: 30px;
+    color: azure;
+}
+
+.letsPlay {
+    /* placed this button outside the inner box then the button lost its color overidden by the wildcat selector */
+    color: rgb(14, 240, 14);
+    font-weight: bold;
+    font-size: larger;
+}
