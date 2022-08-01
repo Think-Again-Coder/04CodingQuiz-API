@@ -9,17 +9,20 @@
     <title>Coding Quiz Challenge - How much do you know about your HTML, CSS, and Javascript?</title>
 
 </head>
-<body> <button><strong>Highscores </strong></button><button><strong><timer> Timer: </Timer:1:30></strong></button>
+<body><button><strong>Highscores </strong></button>
+    <strong>Time:</strong><timer hidden id="timer"> -- </Timer></strong>
     <div class="container">
         <h1>Coding Quiz Challenge!</h1>
-        <h2>*Rules: </h2>Right answer = 10 pts! Wrong answer = -10 seconds **
+        <h2>*Rules: </h2>Right answer = 10 pts! Wrong answer = -10 seconds *Mind the Timer*
         <div class="box">
             <div class="questions">All of the questions will populate here.</div>
                 <button class="a" id="positive">True </button>
                 <button class="b" id="negative">False </button>
                 
+    </button>
         </div>
-        <button class="letsPlay">Start </button>    
+        <button class="letsPlay" id="quizTime"> Start </button>  
+        Click Here  
     </div>
 
     <script src="/script.js"></script>
