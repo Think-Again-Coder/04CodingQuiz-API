@@ -1,6 +1,6 @@
-Coding Quiz - API demonstration
+# Coding Quiz - API demonstration
 
-Acceptance Criteria:
+## Acceptance Criteria:
 
 1. Click a start button to begin quiz.
 2. timer and question presented.
@@ -13,7 +13,7 @@ Acceptance Criteria:
 
 
 
-Steps to complete project:
+## Steps to complete project:
 
 1. build HTML structure: 
      Create a box in the center with smaller divs for T/F answers.
