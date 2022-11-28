@@ -27,3 +27,31 @@
 5. Function to Answer all questions or time runs out - prompt "Game Over"
 7. Function to collect a highscore and prompt for initials to local storage
      A. Add an UL of highscores
+
+     ---
+## Questions List: 
+
+ 1. Git has five different branch types in total.
+ 2. \"git init\", \"git status\", and \"git report\" are all Git commands.
+ 3. All HTML TAGS require opening and closing tags.
+ 4. All CSS stylesheets require a standalone file linked to an index.html file.
+ 5. There are 3 ways to write a function in Javascript.
+ 6. Attributes are properties added to HTML tags that change the way the tag behaves or displays.
+ 7. There are 3 methods for incorporating CSS into HTML."
+ 8. The five primitive data types in Javascript are Number, String, Symbol, Undefined, and Null.
+ 9. In Javascript Undefined, Undeclared, and Null are all the same.
+ 10. The DOM stands for Document Object Model.
+
+## Answers Key: 
+
+1(T)
+2(f)
+3(f)
+4(f)
+5(t)
+6(t)
+7(t)
+8(f)
+9(f)
+10(t)
+
