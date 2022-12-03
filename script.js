@@ -74,11 +74,11 @@ function startGame() {
     }, 1000)
 };
 
-// Update timer 
+// Updates timer 
 startButton.addEventListener("click", startGame);
 element.addEventListener("click", function() {
     document.getElementById(".letsPlay").quizTime = true;
     return;
   }); 
     
-    // function quizTime = 
+
